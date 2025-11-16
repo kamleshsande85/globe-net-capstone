@@ -134,7 +134,7 @@ Example Board:
 ## Contributions & License
 Open for forks/PRs (e.g., add satellite failover). MIT License.  
 
-**Built by [Your Name] – CompTIA Network+ Capstone**  
+**Built by Kamlesh Kumar – CompTIA Network+ Capstone**  
 *Last Updated: November 16, 2025*  
 
 ---
@@ -149,4 +149,5 @@ Open for forks/PRs (e.g., add satellite failover). MIT License.
 This README is **self-contained and showcase-ready**—link it in your LinkedIn bio. Tag me with the repo URL after Phase 1; I'll review and suggest tweaks (e.g., real NIXI AS numbers).  
 
 Let's build the world, phase by phase. 🚀
+
 
