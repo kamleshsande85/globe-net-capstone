@@ -1,14 +1,3 @@
-Below is a **GitHub-ready project description** for your GLOBE-NET capstone. I've formatted it as a **complete README.md file** you can copy-paste into a new repo (e.g., `github.com/<your-username>/globe-net-capstone`).  
-
-It includes:  
-- **Project overview** aligned with N10-009 objectives.  
-- **Phased breakdown** (7 phases, 1–2 days each, for a 7–10 day build).  
-- **GitHub Projects setup** for **Kanban-style progress tracking** (I assume "kibana" is a typo for "Kanban"—like Trello/Jira boards). This uses GitHub's built-in Projects feature to track tasks as To Do → In Progress → Done, with issues/labels for each phase.  
-
-After the README, I'll add **quick setup instructions** to get your repo live.
-
----
-
 # 🌐 GLOBE-NET: Simulating Global Internet Communication for CompTIA Network+ Mastery
 
 ![World Map Topology](diagrams/world-map.png)  
@@ -160,3 +149,4 @@ Open for forks/PRs (e.g., add satellite failover). MIT License.
 This README is **self-contained and showcase-ready**—link it in your LinkedIn bio. Tag me with the repo URL after Phase 1; I'll review and suggest tweaks (e.g., real NIXI AS numbers).  
 
 Let's build the world, phase by phase. 🚀
+
